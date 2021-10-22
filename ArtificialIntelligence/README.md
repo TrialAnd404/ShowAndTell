@@ -1,0 +1,1 @@
+This is a classifier that classifies mails into Spam and Ham mails. We did in fact make an update version of a similar project, where we used PyTorch and a neural Network, but here the code documentation is way better.

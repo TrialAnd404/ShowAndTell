@@ -1,0 +1,8 @@
+hmstr_collect.o: hmstr_collect.c hamsterdef.h ../include/hamsterlib.h
+hmstr_readentry.o: hmstr_readentry.c hamsterdef.h ../include/hamsterlib.h
+hmstr_givetreats.o: hmstr_givetreats.c hamsterdef.h \
+ ../include/hamsterlib.h
+hmstr_lookup.o: hmstr_lookup.c hamsterdef.h ../include/hamsterlib.h
+hmstr_new.o: hmstr_new.c hamsterdef.h ../include/hamsterlib.h
+hmstr_directory.o: hmstr_directory.c hamsterdef.h ../include/hamsterlib.h
+hmstr_howsdoing.o: hmstr_howsdoing.c hamsterdef.h ../include/hamsterlib.h
